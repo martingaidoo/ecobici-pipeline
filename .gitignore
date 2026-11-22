@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+
+# datos pesados, se regeneran corriendo python main.py
+data/raw/*
+!data/raw/.gitkeep
+data/bronze/
+data/silver/
+data/gold/*.parquet
