@@ -4,6 +4,8 @@ Ejercicio de Ciencia de Datos (UTN FRVM). Pipeline en Python + pandas que toma l
 usuarios de Ecobici de 2016, 2019 y 2024 tal cual los publica la Ciudad y los lleva hasta un modelo
 estrella y 5 reportes en CSV, pasando por las capas bronze, silver y gold.
 
+**Alumno:** Martin Roberto Gaido - Legajo 15188
+
 Las decisiones que tomé y la exploración de los archivos están en [DECISIONES.md](DECISIONES.md).
 
 ## Requisitos
